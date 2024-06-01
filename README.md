@@ -50,6 +50,8 @@ this is the reponse you get
 
 ## Stating
 backend => npm start
+
+
 frontend => cd fontent && npm run dev
 
 this is not to be used in the production only for the knowledge purpose and the understanding of how it actuvally works
